@@ -1,1 +1,45 @@
-.
+[
+  {
+    "id": "app-1",
+    "name": "Apex Velocity 3D",
+    "developer": "Vector Dynamics",
+    "category": "Games",
+    "tagline": "Hyper-realistic street racing",
+    "description": "Game description",
+    "size": 89.4,
+    "icon": "https://example.com/icon.png",
+    "downloadUrl": "https://example.com/app.apk",
+    "rating": 4.9,
+    "reviewsCount": "18.4K",
+    "ageRating": "9+",
+    "version": "2.4.1",
+    "isTodayHero": true,
+    "todayHeroTag": "GAME OF THE DAY",
+    "todayHeroSubtitle": "Burn rubber across futuristic streets",
+    "screenshots": [
+      "https://example.com/screenshot1.jpg",
+      "https://example.com/screenshot2.jpg",
+      "https://example.com/screenshot3.jpg"
+    ]
+  },
+  {
+    "id": "app-2",
+    "name": "My Second App",
+    "developer": "My Developer",
+    "category": "Tools",
+    "tagline": "A useful application",
+    "description": "Second app description.",
+    "size": 45.2,
+    "icon": "https://example.com/icon2.png",
+    "downloadUrl": "https://example.com/app2.apk",
+    "rating": 4.7,
+    "reviewsCount": "5.2K",
+    "ageRating": "12+",
+    "version": "1.0.0",
+    "isTodayHero": false,
+    "screenshots": [
+      "https://example.com/app2-screen1.jpg",
+      "https://example.com/app2-screen2.jpg"
+    ]
+  }
+]
