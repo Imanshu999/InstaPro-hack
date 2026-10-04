@@ -2729,5 +2729,45 @@
     "reviewsCount": "18.4K",
     "ageRating": "9+",
     "tagline": "Hyper-realistic street racing with custom tuning"
+  },
+  {
+    "id": "70",
+    "name": "LastWave",
+    "slug": "lastwave",
+    "developer": "Imaanshu N",
+    "rating": "4.1",
+    "downloads": "1K",
+    "size": "88 MB",
+    "version": "4.2.3",
+    "category": "Music & Audio",
+    "type": "App",
+    "updatedAt": "10/07/2026",
+    "icon": "https://appteka.store/icon/2806278b60a344f79399bc88a0de3e162e66140d.png?e=1792022400&s=ar1ZSM9e35q2X7ybK838WA",
+    "description": "Next-Gen YouTube Music Client with Algorithmic Smart Playlist Generator, Real-Time Synced Lyrics & Universal Last.fm Scrobbler for Android.",
+    "longDescription": "LastWave is a modern native Android music client powered by the global YouTube Music catalog, designed for listeners who want intelligent recommendations, kinetic visuals, and seamless music tracking. Built with Material 3 Expressive, LastWave combines effortless ad-free streaming, an AI-powered smart playlist generator, real-time synchronized karaoke lyrics, and a built-in Last.fm scrobbler that watches your playback across your favorite music apps.",
+    "downloadUrl": "https://github.com/Clash-Projects/LastWave-Native/releases/download/4.0.0/LastWave-v4.0.0-android7.apk",
+    "videoUrls": [
+      ""
+    ],
+    "screenshots": [
+      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_1.png",
+      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_2.png",
+      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_3.png",
+      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_4.png",
+      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_5.png",
+      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_6.png",
+    ],
+    "security": {
+      "checksum": "SHA-256: a1e87d9d372bc6826bd81d3542a419f1",
+      "secureToken": "Secure direct download in a single click",
+      "cloudStorage": "Dedicated premium SYBO servers"
+    },
+    "tags": [
+      "",
+      "",
+      "Free"
+    ],
+    "isRecommendation": false,
+    "isRecent": false
   }
 ]
