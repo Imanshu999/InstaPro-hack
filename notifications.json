@@ -1,14 +1,24 @@
 {
   "notifications": [
     {
-      "id": "notice-001",
+      "id": "notif_2026_001",
       "enabled": true,
-      "title": "🔥 New Rise Hub Update",
-      "message": "Rise Hub में एक नया update उपलब्ध है।",
-      "image": "https://example.com/image.png",
+      "title": "🚀 Takano3D Studio: नया अपडेट लाइव!",
+      "message": "आपके गेम प्रोजेक्ट के लिए नया परफॉरमेंस पैच और 3D एसेट्स अपडेट कर दिए गए हैं। अभी चेक करें!",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&auto=format&fit=crop&q=60",
       "date": "2026-10-04",
-      "time": "10:30 AM",
-      "appId": "123"
+      "time": "10:15 AM",
+      "appId": "takano3d.game.hub"
+    },
+    {
+      "id": "notif_2026_002",
+      "enabled": true,
+      "title": "⚠️ Firebase Database Alert",
+      "message": "Cloud Firestore की सुरक्षा नियम (Security Rules) अपडेट किए गए हैं। कृपया अपनी एपीआई जांचें।",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60",
+      "date": "2026-10-04",
+      "time": "09:00 AM",
+      "appId": "takano3d.game.hub"
     }
   ]
 }
