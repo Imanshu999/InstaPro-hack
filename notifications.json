@@ -1,0 +1,14 @@
+{
+  "notifications": [
+    {
+      "id": "notice-001",
+      "enabled": true,
+      "title": "🔥 New Rise Hub Update",
+      "message": "Rise Hub में एक नया update उपलब्ध है।",
+      "image": "https://example.com/image.png",
+      "date": "2026-10-04",
+      "time": "10:30 AM",
+      "appId": "123"
+    }
+  ]
+}
