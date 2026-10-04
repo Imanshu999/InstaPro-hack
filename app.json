@@ -2755,7 +2755,7 @@
       "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_3.png",
       "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_4.png",
       "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_5.png",
-      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_6.png",
+      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_6.png"
     ],
     "security": {
       "checksum": "SHA-256: a1e87d9d372bc6826bd81d3542a419f1",
@@ -2763,8 +2763,6 @@
       "cloudStorage": "Dedicated premium SYBO servers"
     },
     "tags": [
-      "",
-      "",
       "Free"
     ],
     "isRecommendation": false,
