@@ -2734,45 +2734,48 @@
     "isRecommendation": false,
     "isRecent": false
   },
-     {
-  "id": "70",
-  "name": "DuneCrawl",
-  "slug": "dunecrawl",
-  "developer": "Alientrap Games Inc",
-  "rating": "4.7",
-  "downloads": "1K",
-  "size": "1.2GB",
-  "version": "1.13.0",
-  "category": "Action",
-  "type": "Game",
-  "updatedAt": "19/10/2026",
-  "icon": "https://apkvision.org/wp-content/uploads/2026/09/dunecrawl-140x140.png",
-  "description": "Open-world action-adventure game featuring a giant Crab Crawler.",
-  "longDescription": "Explore sandy seas, discover islands and dungeons, complete quests, upgrade your crawler, and play solo or cooperatively with up to four players.",
-  "downloadUrl": "https://dl.apkvision.org/dunecrawl/DuneCrawl-v1.13.0-full-apkvision.apk",
-  "videoUrls": ["https://youtu.be/9pvdtJXf18o?si=aIBUog_3hML9pEbA"],
-  "screenshots": ["https://img.apkvision.org/dunecrawl/dunecrawl-1.webp",
-"https://img.apkvision.org/dunecrawl/dunecrawl-2.webp",
-"https://img.apkvision.org/dunecrawl/dunecrawl-3.webp",
-"https://img.apkvision.org/dunecrawl/dunecrawl-4.webp",
-"https://img.apkvision.org/dunecrawl/dunecrawl-5.webp",
-  ],
-  "tags": [
-    "Action",
-    "Adventure",
-    "Open World",
-    "Co-op"
-  ],
-  "isRecommendation": false,
-  "isRecent": true,
-  "isTodayHero": true,
-  "todayHeroTag": "FEATURED GAME",
-  "todayHeroSubtitle": "Explore the sandy seas in DuneCrawl",
-  "reviewsCount": "",
-  "ageRating": "Everyone 10+",
-  "tagline": "Command a giant crab and conquer the sandy seas"
-},
-{
+  {
+    "id": "70",
+    "name": "DuneCrawl",
+    "slug": "dunecrawl",
+    "developer": "Alientrap Games Inc",
+    "rating": "4.7",
+    "downloads": "1K",
+    "size": "1.2GB",
+    "version": "1.13.0",
+    "category": "Action",
+    "type": "Game",
+    "updatedAt": "19/10/2026",
+    "icon": "https://apkvision.org/wp-content/uploads/2026/09/dunecrawl-140x140.png",
+    "description": "Open-world action-adventure game featuring a giant Crab Crawler.",
+    "longDescription": "Explore sandy seas, discover islands and dungeons, complete quests, upgrade your crawler, and play solo or cooperatively with up to four players.",
+    "downloadUrl": "https://dl.apkvision.org/dunecrawl/DuneCrawl-v1.13.0-full-apkvision.apk",
+    "videoUrls": [
+      "https://youtu.be/9pvdtJXf18o?si=aIBUog_3hML9pEbA"
+    ],
+    "screenshots": [
+      "https://img.apkvision.org/dunecrawl/dunecrawl-1.webp",
+      "https://img.apkvision.org/dunecrawl/dunecrawl-2.webp",
+      "https://img.apkvision.org/dunecrawl/dunecrawl-3.webp",
+      "https://img.apkvision.org/dunecrawl/dunecrawl-4.webp",
+      "https://img.apkvision.org/dunecrawl/dunecrawl-5.webp"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open World",
+      "Co-op"
+    ],
+    "isRecommendation": false,
+    "isRecent": true,
+    "isTodayHero": true,
+    "todayHeroTag": "FEATURED GAME",
+    "todayHeroSubtitle": "Explore the sandy seas in DuneCrawl",
+    "reviewsCount": "",
+    "ageRating": "Everyone 10+",
+    "tagline": "Command a giant crab and conquer the sandy seas"
+  },
+  {
     "id": "71",
     "name": "Dome Keeper",
     "slug": "dome-keeper",
@@ -2788,13 +2791,21 @@
     "description": "Defend your dome from alien monsters while mining for resources.",
     "longDescription": "Dig beneath the surface, collect resources and relics, upgrade equipment, and defend your dome against waves of alien creatures.",
     "downloadUrl": "https://dl.apkvision.org/dome-keeper/Dome-Keeper-v1.0.0-b106-full-apkvision.apk",
-    "videoUrls": ["https://youtu.be/Mqy1OWOnaWY?si=IgJ9SLMvJ7eaQS5F"],
-    "screenshots": ["https://img.apkvision.org/dome-keeper/dome-keeper-1.webp",
-"https://img.apkvision.org/dome-keeper/dome-keeper-2.webp",
-"https://img.apkvision.org/dome-keeper/dome-keeper-3.webp",
-"https://img.apkvision.org/dome-keeper/dome-keeper-4.webp",
-"https://img.apkvision.org/dome-keeper/dome-keeper-5.webp",],
-    "tags": ["Action", "Mining", "Roguelike"],
+    "videoUrls": [
+      "https://youtu.be/Mqy1OWOnaWY?si=IgJ9SLMvJ7eaQS5F"
+    ],
+    "screenshots": [
+      "https://img.apkvision.org/dome-keeper/dome-keeper-1.webp",
+      "https://img.apkvision.org/dome-keeper/dome-keeper-2.webp",
+      "https://img.apkvision.org/dome-keeper/dome-keeper-3.webp",
+      "https://img.apkvision.org/dome-keeper/dome-keeper-4.webp",
+      "https://img.apkvision.org/dome-keeper/dome-keeper-5.webp"
+    ],
+    "tags": [
+      "Action",
+      "Mining",
+      "Roguelike"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
@@ -2820,10 +2831,21 @@
     "description": "A fast-paced turn-based exorcist action roguelite.",
     "longDescription": "Choose attacks carefully, combine traits and items, build your combat deck, and battle through challenging maps with four unique characters.",
     "downloadUrl": "https://dl.apkvision.org/seoul-exorcist-1111/Seoul-Exorcist-1111-v1.3.0-full-apkvision.apk",
-    "videoUrls": ["https://youtu.be/Z_tHokuH57g?si=GbUW0BMDEqY1HMgB"],
-    "screenshots": ["https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-1.webp", "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-2.webp", "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-3.webp",
-"https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-4.webp", "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-5.webp",],
-    "tags": ["Action", "Strategy", "Roguelite"],
+    "videoUrls": [
+      "https://youtu.be/Z_tHokuH57g?si=GbUW0BMDEqY1HMgB"
+    ],
+    "screenshots": [
+      "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-1.webp",
+      "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-2.webp",
+      "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-3.webp",
+      "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-4.webp",
+      "https://img.apkvision.org/Seoul-Exorcist-1111/Seoul-Exorcist-1111-5.webp"
+    ],
+    "tags": [
+      "Action",
+      "Strategy",
+      "Roguelite"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
@@ -2850,8 +2872,21 @@
     "longDescription": "Improve your chess with engine analysis, opening guides, adaptive AI opponents, match reviews and more than 50,000 tactical puzzles.",
     "downloadUrl": "https://app.apkmb.com/Lina%20Chess/Lina%20Chess%20v1.0.13%20-%20Patched.apk",
     "videoUrls": [],
-    "screenshots": ["https://play-lh.googleusercontent.com/LdJ8OkNxCPpPbam45vc-XDzNPbc9Az9Tj41XPEPUvRSuTGf7dYwt7lzNxXyP3FuqNHaOxyajhpvwOlPheOy71A=h305", "https://play-lh.googleusercontent.com/SFkkoLkDmaIeRV_Op5JZoEdfRVV1-lryKBzHkRaABSxGSV7tPssOIYs0zs8QFWfPW2v5XXFApjTKUWdvELOE0g=h305", "https://play-lh.googleusercontent.com/nrwy107jcfSbrz_BSM1urHz60p2z8s5efE2tO332zmvpP596Z2uxUrnnXABxA1IM6lEWLwpzRZHfOp6U8Fmq3A=h305", "https://play-lh.googleusercontent.com/ziiXqFqcgvM78eVO7axTRP4qiKWUrO_f1OLs-2JvllmQUwp343iSKCKR880KAAKi24TBuPAxdVVEYo5voETp=h305", "https://play-lh.googleusercontent.com/9LAZ-5rM4Ep1sqipf51XQz9dgxETj9nS2oU5TiYr_EmH1KnrAvPMzAvG03uhBr8SmGN4a0nZLYNLnXdvUaYu=h305", "https://play-lh.googleusercontent.com/NEwko-sMxj2c91i8C0OrgemzmcFK8CifHuZDTgM7sG39qkcs57WVZhYIGNxcPMfM6Srw_XExw3a0_TUqNndj2A=h305", "https://play-lh.googleusercontent.com/GJeP_EiF5TkrHmr4z7BHjoEmsyfI76LKH5ua5NPoiblZjrndTEOet-33Au3IJchKdjTyMP7NoQyeI4Mbsy29Og=h305", "https://play-lh.googleusercontent.com/yAZfrg3IA51VqobITPxx1I4RI8sv3Ko_rhRjNii0W5915EouvQ_hd3sxswYCkxfDfd0g8hGsjUv4xs1PUHGyBQ=h305",],
-    "tags": ["Chess", "Puzzle", "Strategy"],
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/LdJ8OkNxCPpPbam45vc-XDzNPbc9Az9Tj41XPEPUvRSuTGf7dYwt7lzNxXyP3FuqNHaOxyajhpvwOlPheOy71A=h305",
+      "https://play-lh.googleusercontent.com/SFkkoLkDmaIeRV_Op5JZoEdfRVV1-lryKBzHkRaABSxGSV7tPssOIYs0zs8QFWfPW2v5XXFApjTKUWdvELOE0g=h305",
+      "https://play-lh.googleusercontent.com/nrwy107jcfSbrz_BSM1urHz60p2z8s5efE2tO332zmvpP596Z2uxUrnnXABxA1IM6lEWLwpzRZHfOp6U8Fmq3A=h305",
+      "https://play-lh.googleusercontent.com/ziiXqFqcgvM78eVO7axTRP4qiKWUrO_f1OLs-2JvllmQUwp343iSKCKR880KAAKi24TBuPAxdVVEYo5voETp=h305",
+      "https://play-lh.googleusercontent.com/9LAZ-5rM4Ep1sqipf51XQz9dgxETj9nS2oU5TiYr_EmH1KnrAvPMzAvG03uhBr8SmGN4a0nZLYNLnXdvUaYu=h305",
+      "https://play-lh.googleusercontent.com/NEwko-sMxj2c91i8C0OrgemzmcFK8CifHuZDTgM7sG39qkcs57WVZhYIGNxcPMfM6Srw_XExw3a0_TUqNndj2A=h305",
+      "https://play-lh.googleusercontent.com/GJeP_EiF5TkrHmr4z7BHjoEmsyfI76LKH5ua5NPoiblZjrndTEOet-33Au3IJchKdjTyMP7NoQyeI4Mbsy29Og=h305",
+      "https://play-lh.googleusercontent.com/yAZfrg3IA51VqobITPxx1I4RI8sv3Ko_rhRjNii0W5915EouvQ_hd3sxswYCkxfDfd0g8hGsjUv4xs1PUHGyBQ=h305"
+    ],
+    "tags": [
+      "Chess",
+      "Puzzle",
+      "Strategy"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
@@ -2878,8 +2913,18 @@
     "longDescription": "Collect resources, improve weapons, unlock skills, combine cards and relics, and build increasingly powerful combat strategies.",
     "downloadUrl": "https://dl.apkvision.org/no-more-slimes-idle-action/Slime-Tempest-v01.07.000-full-apkvision.apk",
     "videoUrls": [],
-    "screenshots": ["https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-1.webp", "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-2.webp", "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-3.webp", "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-4.webp", "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-5.webp",],
-    "tags": ["Action", "Idle", "Pixel Art"],
+    "screenshots": [
+      "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-1.webp",
+      "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-2.webp",
+      "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-3.webp",
+      "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-4.webp",
+      "https://img.apkvision.org/no-more-slimes-idle-action/no-more-slimes-idle-action-5.webp"
+    ],
+    "tags": [
+      "Action",
+      "Idle",
+      "Pixel Art"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
@@ -2907,7 +2952,11 @@
     "downloadUrl": "https://dl.apkvision.org/paranormasight/PARANORMASIGHT-v1-2-patched-apkvision.apk",
     "videoUrls": [],
     "screenshots": [],
-    "tags": ["Adventure", "Mystery", "Visual Novel"],
+    "tags": [
+      "Adventure",
+      "Mystery",
+      "Visual Novel"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
