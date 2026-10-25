@@ -2966,7 +2966,6 @@
     "ageRating": "17+",
     "tagline": "Uncover the Seven Mysteries of Honjo."
   },
-  
   {
     "id": "76",
     "name": "Walk The Frog",
@@ -2984,8 +2983,17 @@
     "longDescription": "Walk The Frog is a cozy, heartwarming adventure where players guide Froggo on a journey home to celebrate spring with his friend Buddy. Through intuitive drag-and-drop puzzles on hand-drawn sticky notes, players create paths and interact with quirky characters who offer help and humor. The game emphasizes relaxation, allowing players to solve puzzles at their own pace without stress. Immerse yourself in a gentle narrative filled with friendship and connection, as you explore charming environments across three chapters, all while enjoying a soothing soundtrack and delightful visuals.",
     "downloadUrl": "https://dl.apkvision.org/walk-the-frog/Walk-The-Frog-v1.2-full-apkvision.apk",
     "videoUrls": [],
-    "screenshots": ["https://img.apkvision.org/walk-the-frog/walk-the-frog-1.webp", "https://img.apkvision.org/walk-the-frog/walk-the-frog-2.webp", "https://img.apkvision.org/walk-the-frog/walk-the-frog-3.webp", "https://img.apkvision.org/walk-the-frog/walk-the-frog-4.webp", "https://img.apkvision.org/walk-the-frog/walk-the-frog-5.webp",],
-    "tags": ["Full", "Premium"],
+    "screenshots": [
+      "https://img.apkvision.org/walk-the-frog/walk-the-frog-1.webp",
+      "https://img.apkvision.org/walk-the-frog/walk-the-frog-2.webp",
+      "https://img.apkvision.org/walk-the-frog/walk-the-frog-3.webp",
+      "https://img.apkvision.org/walk-the-frog/walk-the-frog-4.webp",
+      "https://img.apkvision.org/walk-the-frog/walk-the-frog-5.webp"
+    ],
+    "tags": [
+      "Full",
+      "Premium"
+    ],
     "isRecommendation": false,
     "isRecent": false,
     "isTodayHero": false,
@@ -3012,8 +3020,18 @@
     "longDescription": "Master combat techniques, dodge and parry opponents, learn new skills, and pursue a revenge story in this mobile adaptation with touch and controller support.",
     "downloadUrl": "https://dl.apkvision.org/sifu/Sifu-v1.0.254278-MOD-Menu-APKVision.apks",
     "videoUrls": [],
-    "screenshots": ["https://img.apkvision.org/sifu/sifu-1.webp", "https://img.apkvision.org/sifu/sifu-2.webp", "https://img.apkvision.org/sifu/sifu-3.webp", "https://img.apkvision.org/sifu/sifu-4.webp", "https://img.apkvision.org/sifu/sifu-5.webp",],
-    "tags": ["Action", "Martial Arts", "Fighting"],
+    "screenshots": [
+      "https://img.apkvision.org/sifu/sifu-1.webp",
+      "https://img.apkvision.org/sifu/sifu-2.webp",
+      "https://img.apkvision.org/sifu/sifu-3.webp",
+      "https://img.apkvision.org/sifu/sifu-4.webp",
+      "https://img.apkvision.org/sifu/sifu-5.webp"
+    ],
+    "tags": [
+      "Action",
+      "Martial Arts",
+      "Fighting"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
@@ -3040,8 +3058,18 @@
     "longDescription": "Build armies of unusual fighters and watch chaotic battles unfold across historical, spooky and fantasy-inspired settings.",
     "downloadUrl": "https://dl.apkvision.org/tabs-pocket-edition/TABS-Pocket-Edition-v1.1.05-b81-full-apkvision.apk",
     "videoUrls": [],
-    "screenshots": ["https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-1.webp", "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-2.webp", "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-3.webp", "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-4.webp", "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-5.webp",],
-    "tags": ["Simulation", "Strategy", "Physics"],
+    "screenshots": [
+      "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-1.webp",
+      "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-2.webp",
+      "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-3.webp",
+      "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-4.webp",
+      "https://img.apkvision.org/tabs-pocket-edition/tabs-pocket-edition-5.webp"
+    ],
+    "tags": [
+      "Simulation",
+      "Strategy",
+      "Physics"
+    ],
     "isRecommendation": false,
     "isRecent": false,
     "isTodayHero": false,
@@ -3068,8 +3096,18 @@
     "longDescription": "Investigate suspects, explore their thoughts with the Mindsurf mechanic, manage your time, and solve a mystery using logic and intuition.",
     "downloadUrl": "https://dl.apkvision.org/mindcop/Mindcop-v1.4.4-full-apkvision.apk",
     "videoUrls": [],
-    "screenshots": ["https://img.apkvision.org/mindcop/mindcop-1.webp", "https://img.apkvision.org/mindcop/mindcop-2.webp", "https://img.apkvision.org/mindcop/mindcop-3.webp", "https://img.apkvision.org/mindcop/mindcop-4.webp", "https://img.apkvision.org/mindcop/mindcop-5.webp",],
-    "tags": ["Adventure", "Detective", "Mystery"],
+    "screenshots": [
+      "https://img.apkvision.org/mindcop/mindcop-1.webp",
+      "https://img.apkvision.org/mindcop/mindcop-2.webp",
+      "https://img.apkvision.org/mindcop/mindcop-3.webp",
+      "https://img.apkvision.org/mindcop/mindcop-4.webp",
+      "https://img.apkvision.org/mindcop/mindcop-5.webp"
+    ],
+    "tags": [
+      "Adventure",
+      "Detective",
+      "Mystery"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
@@ -3096,8 +3134,18 @@
     "longDescription": "Deliver packages, explore snowy mountain roads, upgrade your kei truck, meet unusual residents, and gradually uncover the town's secrets.",
     "downloadUrl": "https://dl.apkvision.org/easy-delivery-co/Easy-Delivery-Co-v1.12.8-full-apkvision.apk",
     "videoUrls": [],
-    "screenshots": ["https://img.apkvision.org/easy-delivery-co/easy-delivery-co-1.webp", "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-2.webp", "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-3.webp", "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-4.webp", "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-5.webp",],
-    "tags": ["Adventure", "Driving", "Pixel Art"],
+    "screenshots": [
+      "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-1.webp",
+      "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-2.webp",
+      "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-3.webp",
+      "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-4.webp",
+      "https://img.apkvision.org/easy-delivery-co/easy-delivery-co-5.webp"
+    ],
+    "tags": [
+      "Adventure",
+      "Driving",
+      "Pixel Art"
+    ],
     "isRecommendation": false,
     "isRecent": true,
     "isTodayHero": false,
@@ -3108,4 +3156,3 @@
     "tagline": "Deliver packages. Discover the unexpected."
   }
 ]
-  ]
