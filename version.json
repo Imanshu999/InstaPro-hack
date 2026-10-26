@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "mandatory": true,
-  "releaseDate": "2026-10-04",
+  "releaseDate": "2026-10-26",
   "apkUrl": "",
   "notes": [
     "Automated update checker added",
