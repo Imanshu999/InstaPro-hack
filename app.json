@@ -3154,5 +3154,37 @@
     "reviewsCount": "4.07K",
     "ageRating": "Everyone",
     "tagline": "Deliver packages. Discover the unexpected."
+  },
+  {
+    "id": "81",
+    "name": "Free Fire",
+    "slug": "free-fire",
+    "developer": "Garena International I",
+    "rating": "4.2",
+    "downloads": "1B+",
+    "size": "580 MB",
+    "version": "1.132.1",
+    "category": "Action",
+    "type": "Game",
+    "updatedAt": "October 20, 2026",
+    "icon": "https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2026%2F09%2F52%2F6aaa1758d96eb_com.dts.freefireth.png&w=384&h=384&q=100",
+    "description": "Experience enhanced battle royale gameplay with Ultra HD resolution and exclusive features.",
+    "longDescription": "Free Fire is designed exclusively to deliver an immersive battle royale experience. Enjoy a variety of exciting game modes with all Free Fire players via exclusive Firelink technology.",
+    "downloadUrl": "https://files.an1.co/free-fire_1.132.1-an1.com.apk",
+    "videoUrls": ["https://youtu.be/CFb8-D7Gtk4?si=JNrXC7Eg1aJuLSSr",],
+    "screenshots": [
+        "https://img.apkvision.org/free-fire-max/ff-max-1.webphttps://downloadr2.apkmirror.com/wp-content/uploads/2025/12/52/Free-Fire-com.dts.freefireth-1536x960.jpg", 
+        "https://downloadr2.apkmirror.com/wp-content/uploads/2025/10/52/Free-Fire-com.dts.freefireth-2-1536x960.jpg", 
+        "https://downloadr2.apkmirror.com/wp-content/uploads/2026/09/52/Free-Fire-com.dts.freefireth-3-1536x960.jpg", "https://downloadr2.apkmirror.com/wp-content/uploads/2026/09/52/Free-Fire-com.dts.freefireth-4-1536x960.jpg", "https://downloadr2.apkmirror.com/wp-content/uploads/2026/09/52/Free-Fire-com.dts.freefireth-5-1536x960.jpg", "https://downloadr2.apkmirror.com/wp-content/uploads/2026/09/52/Free-Fire-com.dts.freefireth-6-1536x960.jpg",
+    ],
+    "tags": ["Action", "Battle Royale", "Multiplayer", "Shooter"],
+    "isRecommendation": true,
+    "isRecent": false,
+    "isTodayHero": false,
+    "todayHeroTag": "",
+    "todayHeroSubtitle": "",
+    "reviewsCount": "150K+",
+    "ageRating": "Teen",
+    "tagline": "Battle In Style!"
   }
 ]
