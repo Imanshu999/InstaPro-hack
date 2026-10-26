@@ -3186,5 +3186,37 @@
     "reviewsCount": "150K+",
     "ageRating": "Teen",
     "tagline": "Battle In Style!"
+  },
+  {
+    "id": "82",
+    "name": "Free Fire India",
+    "slug": "free-fire-india",
+    "developer": "Garena International III",
+    "rating": "4.2",
+    "downloads": "1B+",
+    "size": "580 MB",
+    "version": "",
+    "category": "Action",
+    "type": "Game",
+    "updatedAt": "00.00.0000",
+    "icon": "https://cdn-icon.bluestacks.com/FwHFuObCEVZzadQXB0klEtby8rHVV7ztHNld7a1HRBqu_TA_whj81jHzjOcWC7x52pY=w64",
+    "description": "Experience enhanced battle royale gameplay with Ultra HD resolution and exclusive features.",
+    "longDescription": "Free Fire India throws you straight into fast, punchy firefights where every second actually matters. It’s an Action shooter built around quick decisions, smart positioning, and clutch teamwork—perfect when you’ve got a few minutes to spare or an hour to burn. Whether you like classic last-squad-standing chaos or tight 4v4 showdowns, there’s always a match ready.",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.garena.game.ffi",
+    "videoUrls": ["https://youtu.be/CFb8-D7Gtk4?si=JNrXC7Eg1aJuLSSr",],
+    "screenshots": [
+        "https://cdn-icon.bluestacks.com/0Txrs6oUwggI5Gg_DHRE8Uk0bEiO9h7aUFwqQg3Tw6VfMFreIROnla6qJUBC6uCIMgk=h200", 
+        "https://cdn-icon.bluestacks.com/g_mufCmuHwQHc6ruH0rt9AzEURm5GvofX-5yerKwIBw7ujdrdjDWdecieqX0clrqsbAQ=h200", 
+        "https://cdn-icon.bluestacks.com/KJbQcDnNAXQgtp8zHvJhuJAKff-pdKF1YhcJ9nW_HOMNVUIH3cuZBouYyt9h0K_uFdd4=h200", "https://cdn-icon.bluestacks.com/ZhvP87y9akJwaGePEgndlMUKq6fNlMejbQmus4fkMZLuKgbsSDeQw3kOkpchjsAVflM=h200", "https://cdn-icon.bluestacks.com/S7EJyaqhkap30YgrCadTmz755CY8QW_6hloFl6a936-r0DVepjoQMXU0orIPNiweqqeb=h200", "https://cdn-icon.bluestacks.com/lt3h2Gu0YvERur_yWOI71a3JG1ePUO4cF1L4Nca0jFfRKK13FGw8g7YTqGxPu48tKQ8=h200",
+    ],
+    "tags": ["Action", "Battle Royale", "Multiplayer", "Shooter"],
+    "isRecommendation": true,
+    "isRecent": false,
+    "isTodayHero": false,
+    "todayHeroTag": "",
+    "todayHeroSubtitle": "",
+    "reviewsCount": "150K+",
+    "ageRating": "Teen",
+    "tagline": "Battle In Style!"
   }
 ]
