@@ -1883,8 +1883,7 @@
       "https://static.apkmody.com/play-lh.googleusercontent.com/G1-bzIxaWy5DGqv-vlfd7fgWCDmWJhMVIdx8KLSceXqBUGJikqSpD-36lcldpzBaRSU=-rw",
       "https://static.apkmody.com/play-lh.googleusercontent.com/biWCYTThuoay6Gs4aAKBRI5CMFtbC2FezZUWJ0PCskOTgJfSHnUdW6T04JZ3PZb_hQ=-rw",
       "https://static.apkmody.com/play-lh.googleusercontent.com/hW8s3qJdsmYJLfuHV1baq8X5hZp2igbk29mItOosezqxpqzpHrTRnMsu_6bfGJSeoWU=-rw",
-      "https://static.apkmody.com/play-lh.googleusercontent.com/ujih8zF9R2ghF-qx2-gfu9hzDybab_hkmbTcelcS_lipXzbN0Yq9uSjXXNhfMucNqW84=-rw",
-      ""
+      "https://static.apkmody.com/play-lh.googleusercontent.com/ujih8zF9R2ghF-qx2-gfu9hzDybab_hkmbTcelcS_lipXzbN0Yq9uSjXXNhfMucNqW84=-rw"
     ],
     "security": {
       "checksum": "SHA-256: gta-iii-mod-full-mod.gw72t82v29g182b19.apk",
@@ -2519,9 +2518,7 @@
     "icon": "https://iili.io/CbSPXZG.md.jpg",
     "description": "NetPlay brings you crystal-clear streaming with zero buffering. Movies, shows, and live content — all in one powerful app built for speed.",
     "downloadUrl": "https://pub-f9599f6fcef74cdbae5c69b3220d0806.r2.dev/1792912965528-Netplay_18.0.apk",
-    "videoUrls": [
-      ""
-    ],
+    "videoUrls": [],
     "screenshots": [
       "https://iili.io/CqYKgjf.jpg",
       "https://iili.io/CqYKPG2.jpg",
@@ -2593,9 +2590,7 @@
     "icon": "https://imgcdn.latestmodapks.com/api/resize?url=https://www.latestmodapks.com/wp-content/uploads/2022/10/unnamed-2022-10-15T194957.564.webp&width=160",
     "description": "",
     "downloadUrl": "https://cdn902.onehost.io/2023/Assetto_Corsa_Mobile_1.0_1763969415_latestmodapks.com.apk",
-    "videoUrls": [
-      ""
-    ],
+    "videoUrls": [],
     "screenshots": [
       "https://imgcdn.latestmodapks.com/api/resize?url=https://www.latestmodapks.com/wp-content/uploads/2022/10/Assetto-Corsa-Apk-2.webp",
       "https://imgcdn.latestmodapks.com/api/resize?url=https://www.latestmodapks.com/wp-content/uploads/2022/10/Assetto-Corsa-Apk-1.webp",
@@ -2712,16 +2707,14 @@
     "description": "Next-Gen YouTube Music Client with Algorithmic Smart Playlist Generator, Real-Time Synced Lyrics & Universal Last.fm Scrobbler for Android.",
     "longDescription": "LastWave is a modern native Android music client powered by the global YouTube Music catalog, designed for listeners who want intelligent recommendations, kinetic visuals, and seamless music tracking. Built with Material 3 Expressive, LastWave combines effortless ad-free streaming, an AI-powered smart playlist generator, real-time synchronized karaoke lyrics, and a built-in Last.fm scrobbler that watches your playback across your favorite music apps.",
     "downloadUrl": "https://github.com/Clash-Projects/LastWave-Native/releases/download/4.0.0/LastWave-v4.0.0-android7.apk",
-    "videoUrls": [
-      ""
-    ],
+    "videoUrls": [],
     "screenshots": [
-      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_1.png",
-      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_2.png",
-      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_3.png",
-      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_4.png",
-      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_5.png",
-      "https://github.com/Clash-Projects/LastWave-Native/blob/main/Screenshot/screenshot_6.png"
+      "https://raw.githubusercontent.com/Clash-Projects/LastWave-Native/main/Screenshot/screenshot_1.png",
+      "https://raw.githubusercontent.com/Clash-Projects/LastWave-Native/main/Screenshot/screenshot_2.png",
+      "https://raw.githubusercontent.com/Clash-Projects/LastWave-Native/main/Screenshot/screenshot_3.png",
+      "https://raw.githubusercontent.com/Clash-Projects/LastWave-Native/main/Screenshot/screenshot_4.png",
+      "https://raw.githubusercontent.com/Clash-Projects/LastWave-Native/main/Screenshot/screenshot_5.png",
+      "https://raw.githubusercontent.com/Clash-Projects/LastWave-Native/main/Screenshot/screenshot_6.png"
     ],
     "security": {
       "checksum": "SHA-256: a1e87d9d372bc6826bd81d3542a419f1",
@@ -3171,7 +3164,9 @@
     "description": "Experience enhanced battle royale gameplay with Ultra HD resolution and exclusive features.",
     "longDescription": "Free Fire is a battle royale game with multiple modes, quick matches, and team-based play.",
     "downloadUrl": "https://files.an1.co/free-fire_1.132.1-an1.com.apk",
-    "videoUrls": ["https://youtu.be/CFb8-D7Gtk4?si=JNrXC7Eg1aJuLSSr"],
+    "videoUrls": [
+      "https://youtu.be/CFb8-D7Gtk4?si=JNrXC7Eg1aJuLSSr"
+    ],
     "screenshots": [
       "https://downloadr2.apkmirror.com/wp-content/uploads/2026/09/52/Free-Fire-com.dts.freefireth-1536x960.jpg",
       "https://downloadr2.apkmirror.com/wp-content/uploads/2025/10/52/Free-Fire-com.dts.freefireth-2-1536x960.jpg",
@@ -3180,7 +3175,12 @@
       "https://downloadr2.apkmirror.com/wp-content/uploads/2026/09/52/Free-Fire-com.dts.freefireth-5-1536x960.jpg",
       "https://downloadr2.apkmirror.com/wp-content/uploads/2026/09/52/Free-Fire-com.dts.freefireth-6-1536x960.jpg"
     ],
-    "tags": ["Action", "Battle Royale", "Multiplayer", "Shooter"],
+    "tags": [
+      "Action",
+      "Battle Royale",
+      "Multiplayer",
+      "Shooter"
+    ],
     "isRecommendation": true,
     "isRecent": false,
     "isTodayHero": false,
@@ -3206,7 +3206,9 @@
     "description": "Free Fire India is listed as an India-focused version of the Free Fire battle royale game.",
     "longDescription": "Explore fast-paced battle royale matches, choose your landing spot, collect equipment, and work with your squad to outlast other teams.",
     "downloadUrl": "https://play.google.com/store/apps/details?id=com.garena.game.ffi",
-    "videoUrls": ["https://youtu.be/CFb8-D7Gtk4?si=JNrXC7Eg1aJuLSSr"],
+    "videoUrls": [
+      "https://youtu.be/CFb8-D7Gtk4?si=JNrXC7Eg1aJuLSSr"
+    ],
     "screenshots": [
       "https://cdn-icon.bluestacks.com/0Txrs6oUwggI5Gg_DHRE8Uk0bEiO9h7aUFwqQg3Tw6VfMFreIROnla6qJUBC6uCIMgk=h200",
       "https://cdn-icon.bluestacks.com/g_mufCmuHwQHc6ruH0rt9AzEURm5GvofX-5yerKwIBw7ujdrdjDWdecieqX0clrqsbAQ=h200",
@@ -3215,7 +3217,12 @@
       "https://cdn-icon.bluestacks.com/S7EJyaqhkap30YgrCadTmz755CY8QW_6hloFl6a936-r0DVepjoQMXU0orIPNiweqqeb=h200",
       "https://cdn-icon.bluestacks.com/lt3h2Gu0YvERur_yWOI71a3JG1ePUO4cF1L4Nca0jFfRKK13FGw8g7YTqGxPu48tKQ8=h200"
     ],
-    "tags": ["Action", "Battle Royale", "Multiplayer", "Shooter"],
+    "tags": [
+      "Action",
+      "Battle Royale",
+      "Multiplayer",
+      "Shooter"
+    ],
     "isRecommendation": true,
     "isRecent": false,
     "isTodayHero": false,
@@ -3224,4 +3231,5 @@
     "reviewsCount": "150K+",
     "ageRating": "Teen",
     "tagline": "Battle In Style!"
-  }]
+  }
+]
